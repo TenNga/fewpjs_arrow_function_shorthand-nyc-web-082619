@@ -2,7 +2,7 @@ const divide = () => {
   return 2000/100;
 }
 
-const quare = (num) => {
+const square = (num) => {
   return num * num;
 }
 
