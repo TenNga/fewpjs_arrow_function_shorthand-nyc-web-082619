@@ -5,3 +5,7 @@ const divide = () => {
 const quare = (num) => {
   return num * num;
 }
+
+const add = (num1,num2) => {
+  return num1 + num2;
+}
